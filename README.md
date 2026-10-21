@@ -1,4 +1,4 @@
-![Grant McNulty: Enterprise software and AI sales leader](banner.png)
+![Grant McNulty: a sales leader on the builders' side of the table](banner.png)
 
 # Grant McNulty
 
@@ -27,7 +27,6 @@ I build in Claude and GPT every day with my own team of AI agents. Daily tools: 
 
 - Trusted by executive teams at Schwarz Group, Pepkor, Vodafone, BAT, GSK, Coca-Cola and Hutchison Whampoa
 - A consistent top global performer at SAP, Cloud Software Group, TIBCO and Axonify
-- #1 Cloud Sales Executive, EMEA (SAP, 2016) · President's Club ×5 · Circle of Excellence ×2
 
 ### Get in touch
 
