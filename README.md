@@ -10,6 +10,10 @@ I partner with exceptional engineers to move enterprises beyond the limits of le
 
 Exploring AI opportunities across the market. Available from 4 January 2027.
 
+### To engineers
+
+If you've built something remarkable and want help taking it to market, on terms that put the builders first, read **[my pact with engineers](https://github.com/grantmcnulty/to-the-engineers)**.
+
 ### Building with AI
 
 I build in Claude and GPT every day with my own team of AI agents. Daily tools: Claude Code, Claude Cowork, ChatGPT and MCP.
@@ -27,6 +31,7 @@ I build in Claude and GPT every day with my own team of AI agents. Daily tools: 
 
 ### Get in touch
 
+- **Share what you've built:** [builders@grantmcnulty.com](mailto:builders@grantmcnulty.com), or add @grantmcnulty to a private repository
 - **Book a call:** [grantmcnulty.com/book](https://grantmcnulty.com/book/)
 - **CV:** [grantmcnulty.com/cv](https://grantmcnulty.com/cv/)
 - **LinkedIn:** [linkedin.com/in/grantmcnulty](https://www.linkedin.com/in/grantmcnulty)
