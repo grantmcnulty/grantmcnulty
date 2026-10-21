@@ -8,7 +8,7 @@ I partner with exceptional engineers to move enterprises beyond the limits of le
 
 ### Now
 
-Exploring AI opportunities across the market. Available from 4 January 2027.
+Exploring AI opportunities across the market.
 
 ### To engineers
 
