@@ -4,7 +4,7 @@
 
 **Enterprise software and AI sales leader.**
 
-I partner with exceptional engineers to move enterprises beyond the limits of legacy software, applying AI in ways that are genuinely new and genuinely useful, and bringing customers with us every step of the way.
+I partner with engineers to move enterprises beyond the limits of legacy software, applying AI where it makes a measurable difference.
 
 ### Now
 
